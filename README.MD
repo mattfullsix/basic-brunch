@@ -2,7 +2,7 @@
 
 Basic brunch skeleton.
 
-This package uses Bower and Brunch as worflow tools, a Git repo, Sass as css preprocessor.
+This package uses Bower and Brunch as worflow tools, a Git repo, [Sass](http://sass-lang.com/) as css preprocessor.
 
 This package includes the following dependencies :
 
