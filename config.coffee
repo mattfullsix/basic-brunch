@@ -5,8 +5,8 @@ exports.config =
     watched: ['app', 'scss', 'vendor']
 
   modules:
-    wrapper: 'commonjs'
-    definition: 'commonjs'
+    wrapper: false
+    definition: false
 
   skip_files: []
 
